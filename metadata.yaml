@@ -1,0 +1,27 @@
+_repo: The-Boy-Spyby-a-soldier_34344
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34344-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Kerbey, Joseph Orton
+    deathdate: 1913
+    gutenberg_agent_id: '36967'
+    url: http://www.gutenberg.org/2009/agents/36967
+description: ''
+gutenberg_issued: '2010-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Secret service'
+title: "The Boy Spy\r\nA substantially true record of secret service during the war\
+  \ of the rebellion, a correct account of events witnessed by a soldier"
+url: http://www.gutenberg.org/ebooks/34344
