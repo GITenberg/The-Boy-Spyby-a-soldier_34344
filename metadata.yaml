@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36967'
     url: http://www.gutenberg.org/2009/agents/36967
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34344#The-Boy-Spyby-a-soldier
 gutenberg_issued: '2010-11-16'
 gutenberg_type: Text
 identifiers:
